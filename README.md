@@ -1,7 +1,4 @@
-# My Portfolio Site Project
-## Status
-✅  Complete.
-
+# Portfolio Site
 ## Summary
 I built a MERN portfolio site to learn to bring my ideas and prototypes to the world quickly, at low cost. I learned core full-stack web development (in MERN) skills, frontend design (in Figma), web hosting (on Vercel), and some web networking concepts, completely from scratch. After successfully implementing the site, I transitioned to a hosted Wordpress instance to cut down on future maintenance and modification time, allowing me to focus on machine learning technologies instead. This was a fantastic experience in web dev!
 
